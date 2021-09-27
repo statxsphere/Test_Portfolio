@@ -17,31 +17,30 @@ Below are some of the projects I've been working on, you can find the rest on my
 * Conducted hypothesis testing to check for statistically significant change in air quality before and after covid travel restrictions.
 * Modelled a LSTM Neural Network to forecast Bangalore's Air Quality and contrasted forecasts made using pre and post travel restriction data.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Product: Anime Recommendation Engine ( [Code](https://github.com/statxsphere/anime) | [Website](https://share.streamlit.io/statxsphere/anime/explore.py) )
 
-```markdown
-Syntax highlighted code block
+![](https://github.com/statxsphere/anime/blob/master/files/tenor.gif)
 
-# Header 1
-## Header 2
-### Header 3
+**Skills used**: Time-Series Forecasting, LSTM Neural Networks, Geospatial Plotting, Hypothesis Testing (ANOVA).
+**Data**: World Weather Online API, Kaggle and OpenBangalore.
 
-- Bulleted
-- List
+*Summary*: 
+* The trends and relationships between weather and air quality data in Bangalore were explored.
+* Conducted hypothesis testing to check for statistically significant change in air quality before and after covid travel restrictions.
+* Modelled a LSTM Neural Network to forecast Bangalore's Air Quality and contrasted forecasts made using pre and post travel restriction data.
 
-1. Numbered
-2. List
+### Data Story: The impact of COVID-19 on Bengaluru's Air Quality ( [Code](https://github.com/statxsphere/aqi_bangalore/blob/main/Lockdown_AQI.ipynb) | [Blog](https://shoobydo.substack.com/p/the-covid-lockdowns-were-a-breath) )
 
-**Bold** and _Italic_ and `Code` text
+![](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F87190c72-b071-4f21-9523-b98808bb45d1_634x311.png)
 
-[Link](url) and ![Image](src)
-```
+**Skills used**: Time-Series Forecasting, LSTM Neural Networks, Geospatial Plotting, Hypothesis Testing (ANOVA).
+**Data**: World Weather Online API, Kaggle and OpenBangalore.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*Summary*: 
+* The trends and relationships between weather and air quality data in Bangalore were explored.
+* Conducted hypothesis testing to check for statistically significant change in air quality before and after covid travel restrictions.
+* Modelled a LSTM Neural Network to forecast Bangalore's Air Quality and contrasted forecasts made using pre and post travel restriction data.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/statxsphere/Test_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
