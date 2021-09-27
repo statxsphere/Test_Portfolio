@@ -7,9 +7,11 @@ Below are some of the projects I've been working on, you can find the rest on my
 
 ### Data Story: The impact of COVID-19 on Bengaluru's Air Quality ( [Code](https://github.com/statxsphere/aqi_bangalore/blob/main/Lockdown_AQI.ipynb) | [Blog](https://shoobydo.substack.com/p/the-covid-lockdowns-were-a-breath) )
 
+![](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F87190c72-b071-4f21-9523-b98808bb45d1_634x311.png)
+
 **Skills used**: Time-Series Forecasting, LSTM Neural Networks, Geospatial Plotting, Hypothesis Testing (ANOVA).
 **Data**: World Weather Online API, Kaggle and OpenBangalore.
-![](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F87190c72-b071-4f21-9523-b98808bb45d1_634x311.png)
+
 *Summary*: 
 * The trends and relationships between weather and air quality data in Bangalore were explored.
 * Conducted hypothesis testing to check for statistically significant change in air quality before and after covid travel restrictions.
