@@ -19,7 +19,7 @@ Below are some of the projects I've been working on, you can find the rest on my
 
 ### Product: Anime Recommendation Engine ( [Code](https://github.com/statxsphere/anime) | [Website](https://share.streamlit.io/statxsphere/anime/explore.py) )
 
-![](https://c.tenor.com/x_GNnWa8SIoAAAAC/vegeta-its-over9000.gif)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fscreenrant.com%2Fdragon-ball-z-its-over-9000-line-origin-mistranslation%2F&psig=AOvVaw1q5X81DAarVVQkb4C7ImoQ&ust=1632822601228000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCKDipLTwnvMCFQAAAAAdAAAAABAD)
 
 **Skills used**: Time-Series Forecasting, LSTM Neural Networks, Geospatial Plotting, Hypothesis Testing (ANOVA).
 **Data**: World Weather Online API, Kaggle and OpenBangalore.
