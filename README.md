@@ -19,7 +19,7 @@ Below are some of the projects I've been working on, you can find the rest on my
 
 ### Product: Anime Recommendation Engine ( [Code](https://github.com/statxsphere/anime) | [Website](https://share.streamlit.io/statxsphere/anime/explore.py) )
 
-![](https://github.com/statxsphere/anime/blob/master/files/tenor.gif)
+![](https://github.com/statxsphere/anime/blob/master/files/handshake.jpg)
 
 **Skills used**: Time-Series Forecasting, LSTM Neural Networks, Geospatial Plotting, Hypothesis Testing (ANOVA).
 **Data**: World Weather Online API, Kaggle and OpenBangalore.
