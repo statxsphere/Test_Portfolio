@@ -10,6 +10,7 @@ Below are some of the projects I've been working on, you can find the rest on my
 ![](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F87190c72-b071-4f21-9523-b98808bb45d1_634x311.png)
 
 **Skills used**: Time-Series Forecasting, LSTM Neural Networks, Geospatial Plotting, Hypothesis Testing (ANOVA).
+
 **Data**: World Weather Online API, Kaggle and OpenBangalore.
 
 *Summary*:
@@ -23,6 +24,7 @@ Below are some of the projects I've been working on, you can find the rest on my
 ![](https://c.tenor.com/TKKlYOpCbV8AAAAC/dragon-ball-z-dbz.gif)
 
 **Skills used**: Clustering, PCA, Cosine Similarity, Deployment Via Streamlit, Tableau, Photoshop.
+
 **Data**: Kaggle.
 
 *Summary*: 
@@ -36,6 +38,7 @@ Below are some of the projects I've been working on, you can find the rest on my
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F20fc4431-84a8-4aa3-bba8-c63f6bde7329_1432x771.png)
 
 **Skills used**: Web Scraping, Object Oriented Programming, Averaged Regression Models, Classification, Tableau.
+
 **Data**: Scraped from tankathon.com, nba.com and basketball-reference.com using bs4 and selenium.
 
 *Summary*: 
